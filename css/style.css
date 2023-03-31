@@ -6990,7 +6990,7 @@ body::after {
   }
 
   .brands__logo-1 {
-    top: 18%;
+    top: 18% !important;
   }
 
   .brands__logo-2 {
